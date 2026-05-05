@@ -1,0 +1,6 @@
+.venv/
+data/corridor/oproad_gb.gpkg
+data/reference/oprvrs_gb.gpkg
+__pycache__/
+.DS_Store
+*.pyc
