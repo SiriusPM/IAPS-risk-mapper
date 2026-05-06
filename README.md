@@ -123,7 +123,6 @@ NBN Atlas, CartoDB Dark Matter basemap
 
 The pipeline runs across five Jupyter notebooks, one per stage:
 
-```
 iaps-risk-mapper/
 ├── notebooks/
 │   ├── 01_corridor_extraction.ipynb    — corridor geometry and segmentation
@@ -139,7 +138,6 @@ iaps-risk-mapper/
 │   ├── index.html      # Leaflet web map (GitHub Pages)
 │   └── m1_iaps_risk_segments.geojson
 └── README.md
-```
 ````
 
 ---
