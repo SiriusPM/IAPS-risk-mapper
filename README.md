@@ -1,4 +1,4 @@
-# 🛰️ UK Infrastructure IAPS Risk Mapper (M1 Corridor)
+# 🛰️ IAPS Risk Mapper — M1 Motorway Corridor
 
 Satellite-based Invasive Alien Plant Species screening using Sentinel-2 and Random Forest classification.
 
